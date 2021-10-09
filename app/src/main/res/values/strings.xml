@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MortageCalc</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Mortgage Calculator</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="umar_s_mortgage_calculator">Umar\'s Mortgage Calculator</string>
+    <string name="get_started">Get Started</string>
+    <string name="total_mortgage_amount">Total Mortgage Amount</string>
+    <string name="mortgage_amount">Mortgage Amount</string>
+    <string name="intrest_rate">Interest Rate</string>
+    <string name="intrest_rate_percentage">Intrest Rate Percentage</string>
+    <string name="equated_monthly_installment">Equated Monthly Installment</string>
+    <string name="calculate">Calculate</string>
+    <string name="_0">0</string>
+    <string name="mortgage_tenure_in_months">Mortgage Tenure in Months</string>
+    <string name="example_1_4">Example: 1.4</string>
+    <string name="example_24">Example: 24</string>
+    <string name="example_145000">Example: 145000</string>
+    <string name="example_1500000_dont_include_symbols">Example: $1500000 (Dont Include Symbols)</string>
+    <string name="example_10_25_dont_include_symbols">Example: 10.25% (Dont Include Symbols)</string>
+    <string name="example_120_months_dont_include_months">Example: 120 Months (Dont Include Months)</string>
+</resources>
